@@ -1,0 +1,135 @@
+body{
+    /* background-color: rgb(41, 39, 39); */
+    display:flex;
+    margin:20px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+.overall{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    margin:20px auto;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin:20px auto;
+    max-width: 350px;
+    background-color: white;
+    /* border:2px solid black; */
+}
+.left{
+    background: -webkit-linear-gradient(top, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    padding: 25px 40px;
+    gap:30px;
+    /* margin-bottom: -20px; */
+    box-shadow: rgb(134, 162, 240);
+}
+.top{
+    color:white;
+    font-weight: 200;
+    font-size: 18px;
+}
+.circle{
+    height: 70px;
+    width:70px;
+    border-radius: 50%;
+    background: -webkit-linear-gradient(top,hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0) );
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.result{
+    font-size: 42px;
+    color:white;
+    font-weight: 900;
+}
+.circle p{
+    color:white;
+    margin-top: 8px;
+}
+.middle{
+    text-align: center;
+    color:white;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.end{
+    color:white;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap:30px;
+    padding:20px 40px;
+    background-color:white;
+    /* margin-top: -20px; */ 
+}
+.head{
+    font-size: 22px;
+    font-weight:600;  
+}
+.one{
+    display:flex;
+    background-color:hsla(0, 100%, 67%, 0.2);
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+    border-radius: 5px;
+}
+.friends{
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+.two{
+    display:flex;
+    background-color:hsla(39, 100%, 56%, 0.2);
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+    border-radius: 5px;
+}
+.three{
+    display:flex;
+    background-color:hsla(166, 100%, 37%, 0.2);
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+    border-radius: 5px;
+}
+.four{
+    display:flex;
+    background-color:hsla(234, 85%, 45%, 0.2);
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+    border-radius: 5px;
+}
+.text span{
+    font-weight: 800;
+}
+.continue{
+    background-color: hsl(224, 30%, 27%);
+    border-radius: 15px;
+    color:white;
+    text-align: center;
+    padding:10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.attribution{
+    color:white;
+    text-align: center;
+}
