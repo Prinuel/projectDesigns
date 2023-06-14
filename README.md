@@ -11,7 +11,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
   Build a result summary page that displays to fit the user device's screen.
@@ -25,15 +25,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktopImg.png)Desktop device view
-![](./mobileImg.png)Mobile device view
+![](./results-summary-component-main/desktopImg.png)Desktop device view
+![](./results-summary-component-main/mobileImg.png)Mobile device view
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Prinuel/Rating_Card]
+- Live Site URL: [https://prinuel.github.io/Rating_Card/]
 
 
 ## Author
-- Frontend Mentor - [@Prinuel](https://www.frontendmentor.io/profile/Prinuel)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Prinuel]
 
 
